@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.streamlit/
+.DS_Store
+spotify_playlists_cleaned.csv
+deployment/artifacts/data_quality_report.json
